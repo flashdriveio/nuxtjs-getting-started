@@ -7,3 +7,5 @@ This repository is a brief example of a [Nuxt.js](https://nuxtjs.org) app that c
 ## Deploy Your Own
 
 [Visit this link](https://devcenter.flashdrive.io/deploy-nuxtjs-on-flashdrive-io/) for a detailled procedure on how to build your NuxtJS app on FlashDrive
+
+[Live Version](https://nuxtjs.us06.fldrv.com/)
