@@ -7,8 +7,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt generate",
-    "start": "nuxt start",
-    "heroku-postbuild": "npm run build"
+    "start": "nuxt start"
   },
   "dependencies": {
     "core-js": "^3.15.0",
