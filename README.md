@@ -2,7 +2,7 @@
 
 # Nuxt.js Example
 
-This repository is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with [Qoddi] (https://qoddi.com).
+This repository is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with [Qoddi](https://qoddi.com).
 
 ## Deploy Your Own
 
