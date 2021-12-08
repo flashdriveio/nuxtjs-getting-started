@@ -1,4 +1,4 @@
-<p align="center"><a href="https://devcenter.flashdrive.io/deploy-nuxtjs-on-flashdrive-io/"><img align="center" style="width:320px" src="https://devcenter.qoddi.com/wp-content/uploads/2021/11/blog-transparent-logo-1.png"/></a></p><br/>
+<p align="center"><a href="https://devcenter.flashdrive.io/deploy-nuxtjs-on-flashdrive-io/"><img align="center" style="width:320px" src="https://devcenter.qoddi.com/wp-content/uploads/2021/11/800px-transparent-logo.png"/></a></p><br/>
 
 # Nuxt.js Example
 
